@@ -3,7 +3,7 @@ name = "valorantx"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
-    {name = "schrobby", email = "schrawby@gmail.com"},
+    {name = "schrobby"},
 ]
 dependencies = []
 requires-python = "==3.12.*"
